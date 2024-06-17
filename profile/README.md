@@ -1,5 +1,5 @@
 <a href="https://www.researchkick.com">
-  <img alt="Research Kick helps you craft compelling research questions and find research gaps in minutes." src="https://github.com/researchkick/.github/assets/25026967/fcf63750-8667-44f9-b244-9ad73f4cf958">
+  <img alt="Research Kick helps you craft compelling research questions and find research gaps in minutes." src="https://github.com/researchkick/.github/assets/25026967/b05e9185-7321-46bd-bd5b-90e098bef3ab">
 </a>
 
 <h3 align="center">Research Kick</h3>
